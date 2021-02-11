@@ -1,0 +1,5 @@
+1. Nalin Gaddis (TA)
+2. https://docs.racket-lang.org/
+3. https://stackoverflow.com/questions/30041672/if-else-clause-or-cond-in-racket (For syntax of else in cond)
+4. Yoli M (Student, explained that you need to define tokens as a parameter or it won't let you parameterize it)
+5. Prof Jeff Terrell (Lexer code - used since the lexing requirements changed a bit since a2)
